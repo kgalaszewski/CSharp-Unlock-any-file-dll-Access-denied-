@@ -1,0 +1,7 @@
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\bin\Debug\AccessIsDenied.exe.config
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\bin\Debug\AccessIsDenied.exe
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\bin\Debug\AccessIsDenied.pdb
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\obj\Debug\AccessIsDenied.csprojAssemblyReference.cache
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\obj\Debug\AccessIsDenied.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\obj\Debug\AccessIsDenied.exe
+C:\Users\Karol\source\repos\AccessIsDenied\AccessIsDenied\obj\Debug\AccessIsDenied.pdb
